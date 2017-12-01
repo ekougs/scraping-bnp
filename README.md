@@ -17,6 +17,11 @@ $ npm start 123 123456
 ```
 First parameter is user ID and second, user password
 
+## Test
+```sh
+$ npm test
+```
+
 ## Usage
 
 Have a look at script.js
